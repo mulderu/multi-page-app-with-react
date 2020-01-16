@@ -1,3 +1,5 @@
+### modified by mulder
+
 # Multi Page App with React
 
 A lightweight, flexible Webpack setup with React for multi page application development. <br />
